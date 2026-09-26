@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Obagi-Java-Application.iml" filepath="$PROJECT_DIR$/Obagi-Java-Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Obagi-Java-Application.iml" filepath="$PROJECT_DIR$/java/Obagi-Java-Application.iml" />
       <module fileurl="file://$PROJECT_DIR$/kotlin-migrate.iml" filepath="$PROJECT_DIR$/kotlin-migrate.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-migrate.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-migrate.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-migrate.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-migrate.test.iml" />
