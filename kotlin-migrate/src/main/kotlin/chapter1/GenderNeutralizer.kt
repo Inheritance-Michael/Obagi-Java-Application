@@ -5,7 +5,8 @@ fun main() {
 }
 
 fun getParagraph(): String{
-   val paragraph = readlnOrNull().toString()
+   val paragraph = ""
+   readlnOrNull().toString()
     return paragraph
 }
 
